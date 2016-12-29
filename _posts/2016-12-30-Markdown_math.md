@@ -9,10 +9,14 @@ tag: Markdown
 #### 数学公式
 
 ​                               键入：f(x,y,z)=3y2z\left(3+\frac{7x+5}{1+y^2}\right)
+
+​				$f(x,y,z)=3y^2z\left(3+\frac{7x+5}{1+y^2}\right)​$
 $$
-效果展示：f(x,y,z)=3y^2z\left(3+\frac{7x+5}{1+y^2}\right)
+效果展示：$f(x,y,z)=3y^2z\left(3+\frac{7x+5}{1+y^2}\right)$
 $$
 ​				键入：J_\alpha(x)=\sum_{m=0}\infty\frac{(-1)m}{m!\Gamma(m+\alpha+1)}{\left({\frac{x}{2}}\right)}^{2m+\alpha}
+
+​		$J\alpha(x)=\sum{m=0}\infty\frac{(-1)m}{m!\Gamma(m+\alpha+1)}{\left({\frac{x}{2}}\right)}^{2m+\alpha}$ 
 $$
 J\alpha(x)=\sum{m=0}\infty\frac{(-1)m}{m!\Gamma(m+\alpha+1)}{\left({\frac{x}{2}}\right)}^{2m+\alpha}
 $$
