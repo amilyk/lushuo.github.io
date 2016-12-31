@@ -6,8 +6,6 @@ description: "解决数学公式在Blog中无法显示的问题"
 tag: Markdown  
 
 ---
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
 
 在我们写博客的时候，有时就会遇到写出的数学公式在前端无法显示。    
 例如下面这一条数学公式：   
@@ -29,6 +27,8 @@ MathJax能够处理LaTeX方式的数学公式，在写数学公式的时候最�
 
 ### 效果展示
 
-<center> $$f(x,y,z)=3y2z\left(3+\frac{7x+5}{1+y^2}\right)$$  </center>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
+<center> $$ f(x,y,z)=3y2z\left(3+\frac{7x+5}{1+y^2}\right) $$  </center>
 
 
