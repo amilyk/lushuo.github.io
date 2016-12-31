@@ -27,8 +27,6 @@ MathJax能够处理LaTeX方式的数学公式，在写数学公式的时候最�
 
 ### 效果展示
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
 <center> $$ f(x,y,z)=3y2z\left(3+\frac{7x+5}{1+y^2}\right) $$  </center>
 
 

@@ -6,7 +6,7 @@ description: "Markdown中的数学公式"
 tag: Markdown 
 ---
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+<script type="text/javascript" src="{{site.baseurl}}/third-party-depend/MathJax-2.6/MathJax.js?config=default"></script>
 
 ### 数学公式
 
