@@ -27,7 +27,8 @@ $f(x,y,z)=3y2z\left(3+\frac{7x+5}{1+y^2}\right) $
 
 MathJax能够处理LaTeX方式的数学公式，在写数学公式的时候最好使用Latex   
 
-<h3>效果展示</h3>
+<h3>效果展示</h3>  
+如果下面的公式没有进行加载，请允许浏览器加载脚本Orz......
 
 <center> $$f(x,y,z)=3y2z\left(3+\frac{7x+5}{1+y^2}\right)$$  </center>
 
