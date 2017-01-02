@@ -15,7 +15,7 @@ $f(x,y,z)=3y2z\left(3+\frac{7x+5}{1+y^2}\right) $
 可以看出并没有显示出公式。  
 当然解决的方法有很多，比如将数学公式截图成图片插入到Markdown中。但是这种方法有一个很严重的缺点就是数学公式非常模糊。   
 这次我介绍的一种解决方式是使用mathjax的方式对数学公式进行展示。而且使用MathJax的方式非常简单，只需要在Markdown文件中插入一条脚本代码即可。  
-### 脚本代码  
+<h3>脚本代码</h3>
 
 ```html
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
@@ -23,13 +23,11 @@ $f(x,y,z)=3y2z\left(3+\frac{7x+5}{1+y^2}\right) $
 
 
 将该段代码插入到自己写的MarkDown中，并将Markdown放在自己博客目录下。在该篇博文加载的时候，就会调用该条脚本，执行脚本，就会处理博文中的数学公式。   
-### 注意事项   
+<h3>注意事项</h3>
 
 MathJax能够处理LaTeX方式的数学公式，在写数学公式的时候最好使用Latex   
 
-### 效果展示   
-
-如果数学公式未能正常显示，请点击浏览器提示按钮，并选择加载脚本(⊙﹏⊙)b  
+<h3>效果展示</h3>
 
 <center> $$f(x,y,z)=3y2z\left(3+\frac{7x+5}{1+y^2}\right)$$  </center>
 
