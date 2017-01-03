@@ -10,7 +10,7 @@ tag: Markdown
 
 
 在我们写博客的时候，有时就会遇到写出的数学公式在前端无法显示的问题。    
-例如下面这一条数学公式：   
+例如下面的这一条数学公式：   
 $f(x,y,z)=3y2z\left(3+\frac{7x+5}{1+y^2}\right) $  
 可以看出并没有显示出公式。  
 当然解决的方法有很多，比如将数学公式截图成图片插入到Markdown中。但是这种方法有一个很严重的缺点就是数学公式非常模糊。   
@@ -30,44 +30,5 @@ MathJax能够处理LaTeX方式的数学公式，在写数学公式的时候最�
 <h3>效果展示</h3>  
 如果下面的公式没有进行加载，请允许浏览器加载脚本Orz......
 
-<center> $$f(x,y,z)=3y2z\left(3+\frac{7x+5}{1+y^2}\right)$$  </center>  
-<math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mi>f</mi>
-  <mo stretchy="false">(</mo>
-  <mi>x</mi>
-  <mo>,</mo>
-  <mi>y</mi>
-  <mo>,</mo>
-  <mi>z</mi>
-  <mo stretchy="false">)</mo>
-  <mo>=</mo>
-  <mn>3</mn>
-  <mi>y</mi>
-  <mn>2</mn>
-  <mi>z</mi>
-  <mrow>
-    <mo>(</mo>
-    <mn>3</mn>
-    <mo>+</mo>
-    <mfrac>
-      <mrow>
-        <mn>7</mn>
-        <mi>x</mi>
-        <mo>+</mo>
-        <mn>5</mn>
-      </mrow>
-      <mrow>
-        <mn>1</mn>
-        <mo>+</mo>
-        <msup>
-          <mi>y</mi>
-          <mn>2</mn>
-        </msup>
-      </mrow>
-    </mfrac>
-    <mo>)</mo>
-  </mrow>
-  <mo>&#x200B;</mo>
-</math>
 
 
