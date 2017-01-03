@@ -8,6 +8,7 @@ tag: Markdown
 ---
 
 
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>  
 在我们写博客的时候，有时就会遇到写出的数学公式在前端无法显示的问题。    
 例如下面的这一条数学公式：   
 $f(x,y,z)=3y2z\left(3+\frac{7x+5}{1+y^2}\right) $  
